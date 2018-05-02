@@ -49,12 +49,15 @@ body {
 
 /* A bit of resizing of the main content items */
 h1 {
-	font-size: 1.5em;
+	letter-spacing:1px; 
+	font-size: 2.0em;
 }
 h2 {
-	font-size: 1.0em;
+	letter-spacing:1px; 
+	font-size: 1.5em;
 }
 p {
+	letter-spacing:1px; 
 	font-size: 0.8em;
 }
 
