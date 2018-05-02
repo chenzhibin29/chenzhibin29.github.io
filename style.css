@@ -49,13 +49,13 @@ body {
 
 /* A bit of resizing of the main content items */
 h1 {
-	font-size: 3em;
+	font-size: 2em;
 }
 h2 {
-	font-size: 1.8em;
+	font-size: 1.3em;
 }
 p {
-	font-size: 1.1em;
+	font-size: 0.8em;
 }
 
 /* Styling for social icons */
