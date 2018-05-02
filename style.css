@@ -63,8 +63,8 @@ p {
 
 /* Styling for social icons */
 i.fa {
-	max-width: 200px;
-	font-size: 100.0em;
+	
+	font-size: 300%;
 	padding: 0 8px;
 	color: #FFF;
 	transition: all 0.3s ease 0s;
