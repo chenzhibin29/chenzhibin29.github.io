@@ -63,9 +63,9 @@ p {
 
 /* Styling for social icons */
 i.fa {
-	max-width: 400;
+	
 	font-size: 400%;
-	padding: 0 8px;
+	padding: 0 20px;
 	color: #FFF;
 	transition: all 0.3s ease 0s;
 	-webkit-transition: all 0.3s ease 0s;
