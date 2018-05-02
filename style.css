@@ -50,15 +50,15 @@ body {
 /* A bit of resizing of the main content items */
 h1 {
 	letter-spacing:1px; 
-	font-size: 2.0em;
+	font-size: 2.2em;
 }
 h2 {
 	letter-spacing:1px; 
-	font-size: 1.5em;
+	font-size: 1.8em;
 }
 p {
 	letter-spacing:1px; 
-	font-size: 0.8em;
+	font-size: 1.1em;
 }
 
 /* Styling for social icons */
